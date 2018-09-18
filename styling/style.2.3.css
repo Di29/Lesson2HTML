@@ -1,0 +1,59 @@
+.logo, .main, .service, .gallery, .about, .contact{
+  display: inline-block;
+  margin-right: 40px;
+  font-size: 20px;
+  color: white;
+}
+
+.c1{
+  background: #6395ec;
+  height: 110px;
+}
+
+.logo{
+  margin: 10px;
+  margin-right: 50px;
+}
+
+.Lorem{
+  margin-top: 20px;
+}
+
+.l1{
+  background: #008001;
+  width: 31.5%;
+  padding: 12px;
+  border-radius: 5%;
+  font-size: 20px;
+  color: white;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+.l2{
+  background: #a52b2a;
+  width: 31.5%;
+  padding: 12px;
+  border-radius: 5%;
+  font-size: 20px;
+  color: white;
+  font-style: italic;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+.l3{
+  background: #7effd4;
+  width: 31.5%;
+  padding: 12px;
+  border-radius: 5%;
+  font-size: 20px;
+  color: #a52b2a;
+  text-decoration: underline;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+.l1, .l2, .l3{
+  display: inline-block;
+}

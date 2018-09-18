@@ -1,0 +1,26 @@
+video{
+  border: 10px double darkred;
+  border-radius: 10%;
+}
+.v1, .v2{
+  display: inline-block;
+}
+
+.btn{
+  background: green;
+  width: 250px;
+  height: 90px;
+  border-radius: 10%;
+  border: 5px solid darkred;
+  padding: 10px 0px;
+}
+
+.btn a{
+  padding: 35px 40px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 40px;
+  text-transform: uppercase;
+
+}
